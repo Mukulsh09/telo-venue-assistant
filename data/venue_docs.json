@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "doc_001",
+    "venue_id": "venue_001",
+    "title": "Skyline Foundry FAQ",
+    "content": "Skyline Foundry supports startup mixers, networking events, and demo days. Outside catering is not allowed. Built-in AV support includes wireless microphones, projector output, and a presentation monitor."
+  },
+  {
+    "doc_id": "doc_002",
+    "venue_id": "venue_002",
+    "title": "Harbor Loft Policies",
+    "content": "Harbor Loft allows outside catering with prior approval. The venue supports launch events and internal company all-hands. Cancellation with full refund is available up to 14 days before the event."
+  },
+  {
+    "doc_id": "doc_003",
+    "venue_id": "venue_003",
+    "title": "Cambridge Private Table Notes",
+    "content": "Cambridge Private Table is best for small executive dinners and team gatherings. The space does not support large-scale AV setups, but it does provide stable Wi-Fi and a private dining room."
+  }
+]

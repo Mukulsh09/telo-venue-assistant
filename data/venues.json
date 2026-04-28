@@ -1,0 +1,53 @@
+[
+  {
+    "id": "venue_001",
+    "name": "Skyline Foundry",
+    "city": "Boston",
+    "neighborhood": "Seaport",
+    "capacity": 120,
+    "price_per_head_usd": 95,
+    "venue_type": "rooftop",
+    "amenities": ["AV", "bar", "wifi", "private_room"],
+    "tags": ["startup", "networking", "demo_day", "industrial"],
+    "description": "Industrial-style rooftop venue suitable for startup mixers, product launches, and private evening events.",
+    "policies": {
+      "outside_catering": false,
+      "alcohol_allowed": true,
+      "min_notice_days": 7
+    }
+  },
+  {
+    "id": "venue_002",
+    "name": "Harbor Loft",
+    "city": "Boston",
+    "neighborhood": "Fort Point",
+    "capacity": 80,
+    "price_per_head_usd": 110,
+    "venue_type": "loft",
+    "amenities": ["projector", "wifi", "stage"],
+    "tags": ["team_dinner", "product_launch", "private_event"],
+    "description": "Flexible loft space with exposed brick, stage lighting, and a projector setup for presentations.",
+    "policies": {
+      "outside_catering": true,
+      "alcohol_allowed": true,
+      "min_notice_days": 5
+    }
+  },
+  {
+    "id": "venue_003",
+    "name": "Cambridge Private Table",
+    "city": "Cambridge",
+    "neighborhood": "Kendall Square",
+    "capacity": 40,
+    "price_per_head_usd": 85,
+    "venue_type": "private_dining",
+    "amenities": ["private_room", "wifi"],
+    "tags": ["team_dinner", "executive", "quiet"],
+    "description": "Private dining venue designed for team dinners, founder meetings, and client hospitality.",
+    "policies": {
+      "outside_catering": false,
+      "alcohol_allowed": true,
+      "min_notice_days": 3
+    }
+  }
+]
